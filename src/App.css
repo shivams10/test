@@ -12,7 +12,10 @@
 
 
 .theme-light {
-  background-color: white;
+  background-color: white!important;
+}
+.theme-light-page {
+  background-color: rgb(233, 226, 226)!important;
 }
 
 .text-light-primary {
@@ -21,4 +24,15 @@
 
 .text-black {
   color: black;
+}
+
+.flex-row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-container{
+  height: 100vh;
+  overflow-y: auto;
 }
