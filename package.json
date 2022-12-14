@@ -16,6 +16,7 @@
     "react-dom": "^18.2.0",
     "react-filter-search": "^1.1.11",
     "react-icons": "^4.7.1",
+    "react-router-dom": "^6.4.5",
     "react-use-cart": "^1.13.0"
   },
   "devDependencies": {
