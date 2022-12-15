@@ -1,13 +1,27 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col, InputGroup, FormControl } from "react-bootstrap";
 import { BiSearch } from "react-icons/bi";
+import axios from "axios";
+import SearchFilter from "react-filter-search";
 
+import ProductCard from "../../components/productCard";
 import { useThemeHook } from "../../contexts/ThemeContext";
 
 const Home = () => {
   const [searchInput, setSearchInput] = useState("");
   const [productData, setProductData] = useState([]);
   const [theme] = useThemeHook();
+
+  function getResponse() {
+    axios
+      .get("./Food.json")
+      .then((res) => setProductData(res.data))
+      .catch((error) => console.log(error));
+  }
+
+  useEffect(() => {
+    getResponse();
+  }, []);
 
   return (
     <Container className="py-4">
@@ -36,6 +50,18 @@ const Home = () => {
             />
           </InputGroup>
         </Col>
+        if({searchInput.length > 2}){
+        <SearchFilter
+          value={searchInput}
+          data={productData}
+          renderResults={(results) => (
+            <Row className="justify-content-center">
+              {results.map((item, index) => (
+                <ProductCard data={item} key={index} />
+              ))}
+            </Row>
+          )}
+        />}
       </Row>
     </Container>
   );

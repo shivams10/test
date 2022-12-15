@@ -14,6 +14,10 @@
   color: #64B5F6!important;
 }
 
+.button-dark{
+  background-color: #ba21d5 !important ;
+}
+
 
 .theme-light {
   background-color: white!important;
@@ -30,6 +34,10 @@
   color: black;
 }
 
+.text-white{
+  color: white;
+}
+
 .flex-row{
   display: flex;
   justify-content: center;
@@ -39,4 +47,8 @@
 .main-container{
   height: 100vh;
   overflow-y: auto;
+}
+
+.remove-underline{
+  text-decoration: none;
 }
