@@ -27,7 +27,7 @@ const Home = () => {
     <Container className="py-4">
       <Row className="justify-content-center">
         <Col xs={10} md={7} lg={6} xl={4} className="mb-3 mx-auto text-center">
-          <h1 className={`${theme ? "text-dark-primary" : "text-black"} my-5`}>
+          <h1 className={`${theme ? "text-dark-primary" : "text-black"}  mt-5 mb-3`}>
             Search Foods
           </h1>
           <InputGroup className="mb-3">
@@ -56,8 +56,8 @@ const Home = () => {
           data={productData}
           renderResults={(results) => (
             <Row className="justify-content-center">
-              {results.map((item, index) => (
-                <ProductCard data={item} key={index} />
+              {results.map((item) => (
+                <ProductCard data={item} key={item.id} />
               ))}
             </Row>
           )}
