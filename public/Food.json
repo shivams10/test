@@ -1,0 +1,327 @@
+[
+    {
+      "id": 1,
+      "name": "Ambur Biryani",
+      "category": "biryani",
+      "rating": 4.3,
+      "price": 130,
+      "image": "amburBiryani",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "Hyderabadi Biryani",
+      "category": "biryani",
+      "rating": 4.3,
+      "price": 150,
+      "image": "hyderabadiBiryani",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "name": "Egg Biryani",
+      "category": "biryani",
+      "rating": 4.3,
+      "price": 180,
+      "image": "eggBiryani",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "name": "Goan Fish Biryani",
+      "category": "biryani",
+      "rating": 4.3,
+      "price": 150,
+      "image": "fishBiryani",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "name": "Mutton Biryani",
+      "category": "biryani",
+      "rating": 4.3,
+      "price": 100,
+      "image": "muttonBiryani",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "name": "Kamrupi Biryani",
+      "category": "biryani",
+      "rating": 4.3,
+      "price": 120,
+      "image": "kamrupiBiryani",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "name": "Kashmiri Biryani",
+      "category": "biryani",
+      "rating": 4.3,
+      "price": 130,
+      "image": "kashmiriBiryani",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "name": "Memoni Biryani",
+      "category": "biryani",
+      "rating": 4.3,
+      "price": 200,
+      "image": "memoniBiryani",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "name": "Mughlai Biryani",
+      "category": "biryani",
+      "rating": 4.3,
+      "price": 150,
+      "image": "mughlaiBiryani",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "name": "Chicken Roast",
+      "category": "chicken",
+      "rating": 4.3,
+      "price": 110,
+      "image": "chickenRoast",
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "name": "Chicken Curry",
+      "category": "chicken",
+      "rating": 4.3,
+      "price": 100,
+      "image": "chickenCurry",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "name": "Chicken Do Pyaza",
+      "category": "chicken",
+      "rating": 4.3,
+      "price": 140,
+      "image": "chickenDoPyaza",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "name": "Chicken Masala",
+      "category": "chicken",
+      "rating": 4.3,
+      "price": 120,
+      "image": "chickenMasala",
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "name": "Handi Chicken",
+      "category": "chicken",
+      "rating": 4.3,
+      "price": 170,
+      "image": "handiChicken",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "name": "Murgh Musallam",
+      "category": "chicken",
+      "rating": 4.3,
+      "price": 200,
+      "image": "murghMusallam",
+      "quantity": 1
+    },
+    {
+      "id": 16,
+      "name": "Matar Paneer",
+      "category": "paneer",
+      "rating": 4.3,
+      "price": 150,
+      "image": "matarPaneer",
+      "quantity": 1
+    },
+    {
+      "id": 17,
+      "name": "Palak Paneer",
+      "category": "paneer",
+      "rating": 4.3,
+      "price": 100,
+      "image": "palakPaneer",
+      "quantity": 1
+    },
+    {
+      "id": 18,
+      "name": "Paneer Butter Masala",
+      "category": "paneer",
+      "rating": 4.3,
+      "price": 150,
+      "image": "paneerButterMasala",
+      "quantity": 1
+    },
+    {
+      "id": 19,
+      "name": "Paneer Do Pyaza",
+      "category": "paneer",
+      "rating": 4.3,
+      "price": 120,
+      "image": "paneerDoPyaza",
+      "quantity": 1
+    },
+    {
+      "id": 20,
+      "name": "Hyderabadi Paneer",
+      "category": "paneer",
+      "rating": 4.3,
+      "price": 80,
+      "image": "hyderabadiPaneer",
+      "quantity": 1
+    },
+    {
+      "id": 21,
+      "name": "Paneer Lababdar",
+      "category": "paneer",
+      "rating": 4.3,
+      "price": 70,
+      "image": "paneerLababdar",
+      "quantity": 1
+    },
+    {
+      "id": 22,
+      "name": "Shahi Paneer",
+      "category": "paneer",
+      "rating": 4.3,
+      "price": 50,
+      "image": "shahiPaneer",
+      "quantity": 1
+    },
+    {
+      "id": 23,
+      "name": "Navratan Korma",
+      "category": "vegetable",
+      "rating": 4.3,
+      "price": 80,
+      "image": "navratanKorma",
+      "quantity": 1
+    },
+    {
+      "id": 24,
+      "name": "Veg Jalfrezi",
+      "category": "vegetable",
+      "rating": 4.3,
+      "price": 70,
+      "image": "vegJalfrezi",
+      "quantity": 1
+    },
+    {
+      "id": 25,
+      "name": "Veg Biryani",
+      "category": "vegetable",
+      "rating": 4.3,
+      "price": 50,
+      "image": "vegBiryani",
+      "quantity": 1
+    },
+    {
+      "id": 26,
+      "name": "Veg Curry",
+      "category": "vegetable",
+      "rating": 4.3,
+      "price": 70,
+      "image": "vegCurry",
+      "quantity": 1
+    },
+    {
+      "id": 27,
+      "name": "Veg Kolhapur",
+      "category": "vegetable",
+      "rating": 4.3,
+      "price": 100,
+      "image": "vegKolhapur",
+      "quantity": 1
+    },
+    {
+      "id": 28,
+      "name": "Veg Masala",
+      "category": "vegetable",
+      "rating": 4.3,
+      "price": 90,
+      "image": "vegMasala",
+      "quantity": 1
+    },
+    {
+      "id": 29,
+      "name": "Veg Pakora",
+      "category": "vegetable",
+      "rating": 4.3,
+      "price": 80,
+      "image": "vegPakora",
+      "quantity": 1
+    },
+    {
+      "id": 30,
+      "name": "Momos",
+      "category": "chinese",
+      "rating": 4.3,
+      "price": 89,
+      "image": "momos",
+      "quantity": 1
+    },
+    {
+      "id": 31,
+      "name": "Chicken Manchurian",
+      "category": "chinese",
+      "rating": 4.3,
+      "price": 79,
+      "image": "chickenManchurian",
+      "quantity": 1
+    },
+    {
+      "id": 32,
+      "name": "Chili Chicken",
+      "category": "chinese",
+      "rating": 4.3,
+      "price": 150,
+      "image": "chiliChicken",
+      "quantity": 1
+    },
+    {
+      "id": 33,
+      "name": "Chowmein",
+      "category": "chinese",
+      "rating": 4.3,
+      "price": 100,
+      "image": "chowmein",
+      "quantity": 1
+    },
+    {
+      "id": 34,
+      "name": "Spring Roll",
+      "category": "chinese",
+      "rating": 4.3,
+      "price": 100,
+      "image": "springRoll",
+      "quantity": 1
+    },
+    {
+      "id": 35,
+      "name": "Szechuan Chicken",
+      "category": "chinese",
+      "rating": 4.3,
+      "price": 110,
+      "image": "szechvanChicken",
+      "quantity": 1
+    },
+    {
+      "id": 36,
+      "name": "Fried Rice",
+      "category": "chinese",
+      "rating": 4.3,
+      "price": 89,
+      "image": "friedRice",
+      "quantity": 1
+    }
+  ]
+  
