@@ -1,0 +1,27 @@
+span{
+    color: #64B5F6;
+}
+
+b{
+    color: #E040FB;
+}
+
+.navbar-style{
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+
+.sun{
+    font-size: 20px;
+    color: #fcbc73!important;
+  }
+
+.moon{
+    font-size: 20px;
+    color: black!important;
+}
+
+.navbar-links{
+    font-size: 30px;
+}

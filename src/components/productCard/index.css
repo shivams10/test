@@ -1,0 +1,38 @@
+.card-container {
+    width: 18rem;
+    height: auto;
+    border-radius: 15px;
+  }
+  
+  .card-image {
+      background-color: white;
+      height: 15rem;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: inherit;
+      border-radius: 10px;
+  }
+  
+  .card-image-width{
+      width: 9rem;
+  }
+  
+  .card-heading{
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+  }
+  
+  .cart-button{
+      display: flex;
+      align-items: center;
+      margin: auto;
+      border: 0;
+      border-radius: 15px;
+  }
+  
+  .cart-button:hover{
+      opacity: 0.9;;
+  }

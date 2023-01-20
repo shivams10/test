@@ -1,0 +1,54 @@
+.theme-black {
+  background-color: #262626!important;
+}
+
+.theme-black-2 {
+  background-color: #444343!important;
+}
+
+.background-dark-primary {
+  background-color: #E040FB !important ;
+}
+
+.text-dark-primary {
+  color: #64B5F6!important;
+}
+
+.button-dark{
+  background-color: #ba21d5 !important ;
+}
+
+
+.theme-light {
+  background-color: white!important;
+}
+.theme-light-page {
+  background-color: rgb(233, 226, 226)!important;
+}
+
+.text-light-primary {
+  color: #E040FB !important;
+}
+
+.text-black {
+  color: black;
+}
+
+.text-white{
+  color: white;
+}
+
+.flex-row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-container{
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.remove-underline{
+  text-decoration: none;
+}

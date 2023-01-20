@@ -1,0 +1,29 @@
+{
+  "name": "project_b",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reach/router": "^1.3.4",
+    "axios": "^1.2.1",
+    "bootstrap": "^5.2.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "^18.2.0",
+    "react-filter-search": "^1.1.11",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.4.5",
+    "react-use-cart": "^1.13.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@vitejs/plugin-react": "^2.2.0",
+    "vite": "^3.2.3"
+  }
+}
